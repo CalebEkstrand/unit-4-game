@@ -12,7 +12,11 @@ function createButtons() {
 createButtons();
 
 
-
+if targetScore === roundScore{
+    wins++
+} if else{
+    losses++
+}
 
 
 
